@@ -1,0 +1,209 @@
+Question,label,pred
+Phobias are considered serious mental illnesses.,0,1
+Major depression can be treated without medication.,0,1
+Is the prime of life the most vulnerable time for mental illnesses to strike?,1,0
+Does mental illness affect people based on their income?,0,1
+Are eating disorders more common in children than in adults?,1,0
+Are eating disorders more common in children than in adults?,1,0
+Are eating disorders more common in children than in adults?,1,0
+Are eating disorders more common in children than in adults?,1,0
+Do older children and pre-teens often complain about physical problems excessively?,1,0
+Can changes in eating and sleeping habits be unrelated to mental health disorders in adults?,0,1
+Can older children and pre-teens experience confused thinking?,0,1
+Can younger children have dramatic changes in eating or sleeping habits unrelated to mental health disorders?,0,1
+Can thoughts of death be unrelated to mental health disorders in older children and pre-teens?,0,1
+Do older children and pre-teens frequently complain about physical problems?,0,1
+Can older children and pre-teens experience long-lasting sadness or irritability?,0,1
+Is it possible for younger children to abuse drugs and/or alcohol?,0,1
+Can someone with a mental illness lead a fulfilled life without any symptoms with minimal intervention?,0,1
+Seeking professional advice on this website is encouraged.,1,0
+Mental health conditions are unlikely to improve with time.,1,0
+Questions that need to be answered include the cause of the illness.,1,0
+The cause of the illness is crucial for determining the treatment program.,0,1
+Can one determine the effectiveness of the medication soon after starting the treatment?,1,0
+Do you need to know anything about the cause of this particular illness?,0,1
+Can one never determine the effectiveness of the medication soon after starting the treatment?,0,1
+Can one never determine the effectiveness of the medication soon after starting the treatment?,0,1
+The best place to start seeking help is from professionals.,0,1
+All mental health practitioners offer referrals and recommendations.,0,1
+The physician cannot predict when the medication will take effect.,0,1
+The physician cannot predict when the medication will take effect.,0,1
+Medication withdrawal symptoms are generally manageable.,0,1
+Decreasing medication dosage can help avoid withdrawal symptoms.,1,0
+Medication withdrawal symptoms can be effectively managed.,0,1
+Withdrawal symptoms occur even with gradually decreased medication dosage.,0,1
+People should consult a pharmacist before making any changes in their treatment.,0,1
+Medication withdrawal symptoms can be life-threatening.,0,1
+Are prescription assistance programs only available to those without health insurance or prescription drug benefits?,1,0
+Do all prescription programs require a doctor's consent?,0,1
+Is it possible to qualify for prescription programs without financial needs?,0,1
+Are drug discount cards available to everyone regardless of financial needs?,0,1
+Is the effectiveness of therapy entirely unrelated to the symptoms experienced?,1,0
+Mental health conditions can only be treated with a combination of medication and therapy.,1,0
+Is it possible to complete a psychiatric advance directive while experiencing mental health problems?,0,1
+Does a psychiatric advance directive dictate the services one wishes to have during a mental health crisis?,0,1
+"Can talking to a friend, colleague, or GP be ineffective in gaining some perspective on your experiences?",0,1
+Thoughts that don't affect your ability to function normally can be overlooked without seeking help.,1,0
+Avoiding the news entirely can help reduce stress and anxiety.,0,1
+Are factual statements designed to evoke emotions in readers?,0,1
+Should you ignore websites that don't provide information about the author?,0,1
+Is it necessary to have 14 days of household supplies at home?,1,0
+Is it important to gather application instructions for financial supports?,1,0
+Support groups are now available only through social media.,1,0
+Are there new fruits and vegetables that can be kept at home for longer periods of time?,1,0
+Is it necessary to avoid busy areas and groups while outside?,1,0
+Is it essential to stay at least two meters away from others while outside?,1,0
+Is it necessary to check the status of your local parks or trails before going out?,1,0
+Can you clean and take care of projects around your home as part of your to-do list?,1,0
+Is it advisable to engage in complex art projects during overwhelming situations?,0,1
+Do people tend to feel more isolated during social distancing?,0,1
+Can turning activities into competitions be detrimental to your well-being?,0,1
+Is it possible to tour museums and art galleries during social distancing?,0,1
+Do we all have control over our own actions and reactions regardless of external circumstances?,1,0
+"Does everyone control their own actions and reactions, no matter what's going on in the world?",1,0
+Is it mentioned that focusing on what you can do makes the situation feel more manageable?,1,0
+Is it mentioned that you can find positive aspects and approach the situation differently?,1,0
+People who think in black and white terms have difficulty recognizing gray areas.,0,1
+Trying to stop thinking in a thinking trap is an effective way to deal with it.,0,1
+Trying to maintain regular routines during grief is recommended.,0,1
+It is essential to engage in regular exercise to cope with grief.,0,1
+It is possible to navigate grief without any support from others.,0,1
+The BC Schizophrenia Society provides support groups for people with mental illnesses.,0,1
+Does the BC Schizophrenia Society offer support groups for people with a specific diagnosis?,0,1
+"To find your local mental health center, visit www.gov.bc.ca/mentalhealth.",1,0
+The Seniors Distress Line can provide information about local services.,0,1
+Are alcohol and other drugs used by people for the same reasons?,0,1
+You always need another doctor's referral to see a psychiatrist.,1,0
+Most people need a referral to access registered psychologists through the private system.,0,1
+Focusing on the designation of the professional is essential when choosing mental health services.,0,1
+Psychiatrists can offer psychotherapy without additional training.,0,1
+You need a referral to access registered psychologists in the private system.,0,1
+The practical differences between professionals in mental health are essential when choosing one.,0,1
+The most critical factor in treatment and care is the professional's philosophy of care.,0,1
+Psychotherapy and counselling are two distinct practices.,0,1
+All mental health professionals can provide counselling.,1,0
+Dialectical behaviour therapy focuses on communication.,0,1
+Psychotherapy can be ineffective for mental health problems.,0,1
+Narrative therapy is evidence-based.,0,1
+Asking about professional organization membership is optional.,0,1
+Therapy can be successful regardless of the therapist's values.,0,1
+"Does DBT stand for ""dialectical behavior therapy""?",0,1
+Are the key differences between CBT and DBT related to thought patterns?,0,1
+"Is DBT a structured, short-term therapy with a focus on the present?",0,1
+Is CBT primarily aimed at helping individuals regulate their emotions?,0,1
+Is CBT an evidence-based approach for dealing with mental health problems?,0,1
+Generic names of medications are always different from brand names.,0,1
+SARIs both inhibit serotonin and antagonize its function.,1,0
+Medical doctors are the only ones who can prescribe antidepressants.,1,0
+Should you discuss your options and concerns with your family members before seeking a second opinion?,0,1
+Can you be less concerned if the person you care about has a different idea of the cause?,0,1
+Brain injury survivors require specialized mental health treatment.,0,1
+Treatment for mental health issues is effective regardless of the cause.,1,0
+Brain injuries are a leading cause of mental health problems.,0,1
+"When a loved one experiences a physical health problem, is it easy to know how to best help them?",1,0
+Should you try to understand exactly what someone else with depression is experiencing to provide help?,0,1
+"Emotional help, like someone to talk with, is helpful for everyone dealing with depression, true or false?",0,1
+Are there any age restrictions on a person's right to make choices about their treatment?,0,1
+Should you assume that your loved one wants to be included in social events during their depression?,0,1
+Can you help someone else if you aren't well yourself?,0,1
+Can you control the impact of your parent's illness on you?,0,1
+Can you control the mix of feelings you have about a situation?,0,1
+Can you control what emotions you feel about a situation?,0,1
+Is it your responsibility to make someone else's illness easier?,0,1
+Should you call 1-800-SUICIDE only if you're facing an immediate life-threatening situation?,1,0
+Using cannabis out of curiosity or while socializing with friends is associated with higher potential for harm.,0,1
+Cannabis has been linked to an increased risk of depression in young people with serious mental health issues.,0,1
+Using cannabis can lead to serious mental health issues.,0,1
+Can someone have poor mental health and never experience a mental illness?,0,1
+Can different mental illnesses have similar symptoms?,0,1
+Are all mental illnesses characterized by distinct symptoms and impacts?,0,1
+Anxiety disorders make people avoid work-related situations.,0,1
+Stress symptoms usually vanish after the stressful situation ends.,1,0
+Stress is related to the 'freeze' response in dangerous situations.,0,1
+Anxiety is related to the 'fight' response to confront challenges.,0,1
+Identifying the cause of stress can be straightforward.,1,0
+Anxiety can be beneficial for enhancing productivity.,0,1
+Does sadness go away quickly in most cases?,1,0
+Can depression be managed without professional help?,0,1
+Is it possible for sadness to persist for a long time?,0,1
+Can someone be diagnosed with PDD if they experience five symptoms?,0,1
+Is it possible to be diagnosed with major depressive disorder for two weeks?,0,1
+Can PDD be considered a mood disorder?,1,0
+Are there five or more symptoms associated with PDD?,0,1
+Someone diagnosed with PDD can have no periods of wellness for two years.,1,0
+Can someone be diagnosed with major depressive disorder for two months?,0,1
+PDD can have symptoms lasting for at least one year.,0,1
+Is it possible to have five or more symptoms with PDD?,0,1
+Major depressive disorder can last for at least one year.,0,1
+Is PDD considered a type of mood disorder?,1,0
+Major depressive disorder can last for two months without wellness.,0,1
+PDD is often mistaken for a temporary phase.,0,1
+Major depressive disorder can last for at least five years.,0,1
+Does PDD last for at least one month without wellness?,0,1
+Does cyclothymia have three or more symptoms of hypomania and five or more symptoms of depression?,1,0
+Are racing thoughts or ideas a symptom of depression?,0,1
+Are the symptoms of cyclothymia similar to those of major depressive disorder?,0,1
+Do racing thoughts or ideas indicate depression?,0,1
+Does cyclothymia cause withdrawal from social activities?,0,1
+Does cyclothymic disorder involve two or more symptoms of hypomania and depression?,0,1
+Are risky decisions typical during depressive episodes?,0,1
+Do people with hypomania tend to seek social interactions more?,0,1
+Is decreased judgement a symptom of depression?,0,1
+Is irritability a symptom of cyclothymic disorder?,0,1
+Rapid cycling tends to become less frequent over time.,1,0
+Rapid cycling is more common in bipolar disorder than in depression.,0,1
+Rapid cycling occurs more frequently in females.,0,1
+Rapid cycling is a sign of poor treatment response.,0,1
+Rapid cycling is a condition that can improve without intervention.,1,0
+Can you find an info sheet on borderline personality disorder?,1,0
+Is schizoid personality disorder often mistaken for schizophrenia?,0,1
+Are there cases where people with schizoid personality disorder enjoy close relationships?,0,1
+Are there any effective medical treatments for schizoid personality disorder?,0,1
+Is schizoid personality disorder entirely unrelated to schizophrenia?,1,0
+Can people with schizoid personality disorder have fulfilling social relationships?,0,1
+Is it likely for people with SPD to seek professional help for their condition?,1,0
+Does ASPD start to exhibit symptoms only in adulthood?,1,0
+Does ASPD influence the way people think about their own rights and responsibilities?,0,1
+Is ASPD a condition that can be diagnosed in children and adults alike?,1,0
+Are obsessions and compulsions viewed as logical by individuals with OCD?,0,1
+Is obsessive-compulsive personality disorder one of the most common personality disorders?,1,0
+Is OCPD more prevalent than OCD?,1,0
+Is the inability to throw away items a feature of OCPD?,1,0
+DID causes multiple personalities to develop on their own.,0,1
+DID and schizophrenia have similar symptoms.,0,1
+Schizophrenia can involve forgetting learned information.,0,1
+DID leads to changes in emotions.,0,1
+Schizophrenia causes difficulties in hearing.,0,1
+DID involves feeling detached from others.,1,0
+People with DID experience many distinct personalities.,0,1
+DID causes constant changes in a person's identity.,0,1
+"Are hallucinations limited to hearing voices, or can they involve other senses as well?",1,0
+Is psychosis always a part of schizophrenia?,0,1
+"Are difficulties in concentration, completing tasks, or making decisions common symptoms of psychosis?",1,0
+Does schizophrenia always involve psychosis?,0,1
+Can delusions be beliefs that are possible to be true?,0,1
+"Are hallucinations limited to hearing voices, or can they involve other sensations as well?",1,0
+Negative symptoms are medical terms for two groups of symptoms in schizophrenia.,0,1
+Cognitive symptoms can cause hallucinations and delusions.,0,1
+Does psychosis have a specific prodrome?,1,0
+Are hallucinations and delusions common symptoms of the prodrome of psychosis?,0,1
+Should you seek a specialist for ADHD diagnosis?,0,1
+Is ADHD a lifelong condition once diagnosed?,1,0
+Should parents seek specialized services for ADHD diagnosis?,0,1
+Is it necessary for some people to keep using substances to feel normal?,1,0
+"Is there any mention of ""drinking on some days"" as a strategy to manage alcohol consumption?",1,0
+Using alcohol to enhance special celebrations can lead to frequent social drinking.,0,1
+Are the risks of developing certain cancers lower for cannabis smokers compared to tobacco smokers?,1,0
+Does tobacco smoke contain more cancer-causing toxins than cannabis smoke?,0,1
+Are tobacco smokers at a higher risk of developing lung cancer than cannabis smokers?,0,1
+Is there any possibility of knowing the contents of illegal drugs?,0,1
+Is it possible to know the contents and dosage of all drugs obtained inside a regulated system?,0,1
+Can you convince your kids not to use drugs?,0,1
+Opening up discussions about drugs can be done naturally during family celebrations with alcohol present.,1,0
+Have significant negative drug interactions with CBD been recorded?,0,1
+Does the FDA approval for CBD treatment only cover one rare condition characterized by epileptic seizures?,0,1
+Can vaping liquid contain nothing at all?,1,0
+Is there evidence to suggest that vaping is likely a gateway to smoking tobacco?,0,1
+"Is using any substance with the philosophy of ""not too much, not too often, and in a safe context"" ideal?",1,0
+Is there evidence suggesting that vaping is a good method to start smoking cigarettes?,0,1
+Can vaping be considered a safer alternative to smoking cigarettes?,1,0

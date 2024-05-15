@@ -1,0 +1,316 @@
+Question,label,pred
+Can the uncertainty range around projected greenhouse gas emissions be materially reduced?,0,1
+Will improvements in climate science reduce scenario-dependent uncertainties in future emissions?,0,1
+Do improvements in climate models increase the estimates of climate response uncertainty?,1,0
+Have heavy precipitation increases occurred globally?,0,1
+Are there discernable changes in tropical cyclone frequency?,0,1
+Is there a consistent definition of extreme climatic events?,0,1
+Has the frequency of heat waves decreased in the south-eastern USA?,1,0
+Have extreme precipitation events increased globally?,0,1
+Is there evidence of decreases in heavy precipitation in southern Australia?,1,0
+Have droughts decreased in central North America?,1,0
+Are there slight decreases in the frequency of tropical cyclones making landfall in the North Atlantic?,1,0
+Is there evidence of a longer-term trend in other ocean basins?,0,1
+Are there limited changes in extremes associated with other climate variables since the mid-20th century?,1,0
+Does the temperature trend decrease as depth increases in the ocean?,1,0
+Would increases in Earth's surface temperature slow within about a decade if greenhouse gas concentrations were constant?,1,0
+Does seawater's salinity change over human time scales?,0,1
+Is the Atlantic the saltiest ocean basin?,1,0
+Does the Pacific ocean experience nearly balanced precipitation gain and evaporation loss?,1,0
+Are long-term precipitation records available only from over the land?,1,0
+Are there long-term measurements of evaporation?,0,1
+Can land-based observations provide evidence of changes in drought?,0,1
+Does the Earth's water cycle involve condensation?,0,1
+Is there a lack of long-term observations of rain and evaporation over the global land areas?,0,1
+Can the addition or removal of salt alter seawater's salinity?,0,1
+"Does the distribution of salinity at the ocean surface largely reflect the spatial pattern of precipitation minus evaporation, runoff from land, and sea ice processes?",0,1
+Have the precipitation-dominated subpolar and tropical regions become saltier over time?,0,1
+Are long-term precipitation records available from both land and ocean?,0,1
+Are there long-term measurements of evaporation over the oceans?,1,0
+Does ocean salinity reflect and amplify the difference between water gained by the ocean from precipitation and water lost through evaporation?,0,1
+Is ocean salinity affected by water runoff from the continents?,0,1
+Is ocean salinity affected by the melting and freezing of land-based glaciers?,0,1
+Can fresh water added by melting ice on land significantly change global-averaged salinity?,0,1
+Have changes in precipitation and runoff minus evaporation resulted in localized salinity changes in the upper ocean over the past 50 years?,0,1
+Is the snowfall rate over Antarctic sea ice higher than in the Arctic?,1,0
+Does sea ice drift predominantly from east to west near the Antarctic coast?,1,0
+Does sea ice drift from west to east and highly diverge further north near the Antarctic?,1,0
+Has the annual extent of sea ice in the Antarctic increased at about 1.5% per decade over the past 34 years?,1,0
+Is the overall increase in Antarctic sea ice extent meaningful as an indicator of climate due to variations from year to year and from place to place around the continent?,1,0
+Does the available evidence preclude making robust statements about overall changes in Antarctic sea ice and their causes?,1,0
+Is it possible to make robust statements about the overall changes in Antarctic sea ice and their causes without better ice thickness and ice volume estimates?,1,0
+Have glaciers disappeared in the Andes?,1,0
+Are glacier characteristics in the Karakoram-Himalaya mountain range still only poorly known?,1,0
+Is the solar contribution to the global surface temperature change dominated by the 11-year solar cycle?,1,0
+Do the mechanisms that amplify the regional effects of TSI have little effect on global mean temperatures?,1,0
+Can fluctuations in TSI be considered relatively small?,0,1
+Does the increase in global surface temperatures since the late 1970s coincide with the direct measurement of TSI by satellites?,0,1
+Do volcanic eruptions contribute to global surface temperature change by injecting greenhouse gases into the atmosphere?,0,1
+Can internal climate variability have a major effect on global mean temperature?,0,1
+Is there high uncertainty regarding the effects of future solar activity on climate?,0,1
+Is local sea level falling at a rate approaching 10 mm yr-1 along the northern Swedish coast?,1,0
+"Are local rates of sea level change estimated from direct measures recorded in sedimentary, fossil, and archaeological archives?",0,1
+The Arctic domain is a net source of CO2.,0,1
+The Arctic is a significant source of global wetland methane emissions.,0,1
+Thawing permafrost significantly contributes to the global budgets of CO2 and methane.,0,1
+Methane production by microbes in waterlogged soils is limited by oxygen availability.,0,1
+Warmer temperatures lead to reduced carbon dioxide uptake by Arctic vegetation.,0,1
+Loss of permafrost soil carbon occurs rapidly over short time scales.,0,1
+"Modelling studies indicate that permafrost feedback is relatively fast, occurring within decades.",0,1
+Hydrates consist of methane and oxygen molecule clusters.,0,1
+CH4 seepages from the Arctic Siberian shelf and Siberian lakes are a significant contribution to the global CH4 budget.,0,1
+"Reactive chemical compounds in the atmosphere, like methane, are broken down and removed by sink processes.",0,1
+CO2 is a non-reactive gas that quickly mixes throughout the troposphere.,1,0
+Plankton growth in the ocean is significantly affected by the availability of inorganic carbon from anthropogenic CO2.,0,1
+The ocean dominates carbon uptake over shorter time scales compared to land.,0,1
+Carbonic acid is the main form in which CO2 exists in the ocean.,0,1
+A smaller fraction of CO2 remains in the atmosphere for shorter periods when higher emissions are released.,1,0
+Does the precipitation that reaches the surface represent a net cooling of the air?,0,1
+Does a shift from thick high clouds to thin cirrus clouds disturb the compensation between reflecting sunlight and reducing infrared light emission?,0,1
+Can global cloud feedbacks be inferred from observations of long-term cloud trends?,0,1
+Does a compensation between thick high clouds and thin cirrus clouds disturb the surface temperature sensitivity to changes in high cloud amount?,0,1
+Is the impact of aerosols on the global mean surface temperature over the past two decades considered significant?,0,1
+Are anthropogenic aerosols expected to have a small cooling influence on the Earth's surface in the future?,0,1
+Can the global impact of aerosols be determined solely by satellite data and models?,1,0
+Is it easier to measure black carbon than absorbing aerosols?,1,0
+Direct air capture methods operate much more rapidly than other CDR methods.,1,0
+Afforestation in the tropics may accelerate global warming.,0,1
+SRM can compensate for the warming caused by greenhouse gases in both day and night.,0,1
+SRM can cool the Earth to pre-industrial levels within a decade or two.,1,0
+Stratospheric aerosols would increase plant productivity.,1,0
+SRM can cool polar regions more than tropical regions.,1,0
+Stratospheric aerosols would increase the amount of direct sunlight reaching the surface.,1,0
+Is the typical residence time of water vapor in the atmosphere one day?,0,1
+Can an increase in atmospheric water vapor be interpreted as a radiative forcing from anthropogenic emissions?,0,1
+Do climate models suffer from fewer sources of error compared to their predecessors?,0,1
+"Is large-scale oceanic variability, such as El Nino-Southern Oscillation (ENSO) fluctuations, the dominant source of internal climate variability on decadal to centennial time scales?",1,0
+Did simulations driven only by natural forcings fail to reproduce late 20th-century global warming at the surface with a similar pattern of change as observed?,0,1
+Does natural climate variability increase with distance from the equator?,1,0
+Will projected warming emerge in middle latitudes before the mid-21st century?,0,1
+Is the local temperature variability smaller in summer compared to winter?,1,0
+Have the probabilities of many other extreme weather events changed substantially?,0,1
+Will warming become obvious in middle latitudes during winter within the next several decades?,0,1
+Are warming trends expected to emerge more slowly in middle latitudes during winter?,1,0
+Will the warming trend emerge more quickly in the tropics compared to other parts of the globe?,1,0
+"Are local temperature curves in FAQ 10.2, Figure 1 based on assumed future emissions scenarios?",1,0
+Are model warming projections based on the same assumed future emissions scenario?,1,0
+Does the increase required for summer temperature change depend on the rate of change?,0,1
+Does the date of future emergence of projected warming trends depend on the rate of atmospheric greenhouse gas accumulation?,0,1
+Is there a direct link between the increase required for summer temperature change and the rate of change?,0,1
+Does the spread of model warming projections depend on the amount of local variability?,0,1
+Can the dispersion of sulphur dioxide in the upper atmosphere be predicted during a volcanic eruption?,0,1
+Do ash or tephra particles emitted during volcanic eruptions affect the global climate?,0,1
+Did the 1980 Mount St. Helens eruption have detectable global climate impacts?,0,1
+Do high-latitude eruptions have effects only in the hemisphere where they occurred?,1,0
+Do tropical or subtropical volcanoes produce more global surface cooling compared to high-latitude eruptions?,1,0
+Did the 1783 Laki eruption in Iceland cause record warm summer temperatures in Europe?,1,0
+Did the 1809 unidentified eruption cause the 'Year Without a Summer' in 1816?,1,0
+Do volcanic clouds remain in the stratosphere for several years?,0,1
+Does the response to individual volcanic eruptions have a longer time scale than long-term oceanic feedbacks?,1,0
+Can past observations and recent trends accurately project future climate change?,0,1
+Are complex models necessary for simulating large-scale average quantities like global average temperature?,0,1
+Does water primarily occur as a gas-water vapor in the atmosphere?,1,0
+Will summer precipitation in northern Asia hardly change?,1,0
+Are projections of future climate consistent across many models and climate forcing scenarios?,1,0
+Will precipitation events overall tend to occur less frequently in the future?,1,0
+Will the loss of glaciers contribute to a reduction in springtime river flow?,1,0
+Do aerosols have a lifetime of days?,0,1
+Does nitrous oxide have a lifetime of about 100 years?,1,0
+Will methane concentrations return to pre-industrial levels in about 50 years?,1,0
+Will eliminating CO2 emissions only lead to a near constant temperature for many centuries?,1,0
+Will setting all emissions to zero lead to a near stabilization of the climate for multiple centuries?,1,0
+Does sediment compaction and tectonics have a global impact on sea level?,0,1
+Are tide gauges used to measure geocentric sea level?,0,1
+Does the land tend to fall as the ice melts?,0,1
+Is the global average change of sea level not a useful single value?,0,1
+Do the combination of various processes result in a consistent pattern of sea level change?,0,1
+Can sediment compaction and tectonics affect sea level globally?,0,1
+Can earthquakes and landslides significantly alter sea level change?,0,1
+Did the eastern Pacific Ocean experience higher rates of sea level change compared to the global mean from 1993 to 2012?,0,1
+Does Greenland lose roughly half of its accumulated ice by calving?,1,0
+Does Antarctica lose virtually all its accumulation by calving and submarine melt from its fringing ice shelves?,1,0
+Have studies using satellite radar altimetry found a significant increase in snowfall in East Antarctica?,0,1
+Do recent atmospheric modeling and satellite measurements find a significant increase in snowfall in East Antarctica?,0,1
+Do regional changes in atmospheric circulation play a primary role in Antarctic snowfall increase?,0,1
+Is the increase in outflow in West Antarctica caused by atmospheric warming over recent decades?,0,1
+Has the ice-shelf collapse on the Antarctic Peninsula had a positive effect on sea level?,1,0
+Will further ice-shelf collapses on the Antarctic Peninsula have a positive effect on sea level?,1,0
+Do regional projections suggest that stability of the large ice shelves of West and East Antarctica will be affected by atmospheric warming?,0,1
+Does the Greenland ice sheet have known large-scale instabilities that might generate an abrupt increase in sea level rise over the 21st century?,0,1
+Is there a clear link between recent increases in outflow in Greenland and more surface melt water?,0,1
+Do monsoon rains fall over all tropical continents?,1,0
+Have the Indo-Australian and Western Pacific monsoon systems shown coherent trends since the mid-20th century?,0,1
+Have systematic long-term trends been observed in the behavior of the Indian or African monsoons?,0,1
+Does global warming encompass a broader range of changes happening to our planet?,0,1
+Is climate change unrelated to the long-term warming of the planet?,1,0
+Is the long-term warming of the planet unrelated to climate change?,1,0
+"Is ice melt in Greenland, Antarctica, and the Arctic solely influenced by climate change?",1,0
+Is global warming the primary aspect of climate change?,0,1
+Are rising sea levels solely caused by global warming?,1,0
+Is climate change unrelated to the long-term warming of the planet?,1,0
+Are rising sea levels solely caused by global warming?,1,0
+Is climate change unrelated to the long-term warming of the planet?,1,0
+Is the greenhouse effect related to the escape of heat into space?,0,1
+Do growth rings in trees provide information about cloudiness in the past?,1,0
+"Do growth rings in trees extend our knowledge of past climate back about 2,000 years?",0,1
+Do benthic cores extend our knowledge of past climate back about a billion years?,1,0
+Do benthic cores provide information about temperature and nutrients in the past?,0,1
+Did the temperature tracking records from the UK Meteorological Office's Hadley Centre start in 1880?,1,0
+Did the National Oceanic and Atmospheric Administration's National Climactic Data Center start in 1880?,0,1
+Does the Sun have no influence on the warming trend observed over the past few decades?,1,0
+Is weather seen on short timescales from minutes to months?,0,1
+Do floods and heat waves fall under the category of climate?,0,1
+Is the amount of CO2 released by volcanoes significant compared to human activities?,1,0
+Is the amount of CO2 released by volcanoes substantial?,1,0
+Does the urban heat island effect have a negligible impact on our warming world?,1,0
+"Can the global warming caused by long-lived, human-emitted greenhouse gases be impacted by a decrease in solar radiation?",0,1
+"Is the evidence suggesting that the next ""ice age"" will be completely avoided?",1,0
+Will a decrease in solar radiation lead to a significant impact on global warming?,0,1
+Do satellites measure temperature and the surface accurately?,0,1
+Are ground thermometers more accurate than satellite measurements?,1,0
+Is it safe to conclude that satellites measure temperature and the surface?,0,1
+Do ground thermometers measure temperature and the surface more accurately than satellites?,1,0
+Did the warming of the ocean start before 1990?,0,1
+Are anthropogenic carbon dioxide (CO2) emissions increasing over time?,0,1
+Does the amount of CO2 absorbed by Earth's life forms and oceans decrease over time?,1,0
+Is the percentage of CO2 emissions removed by natural sinks higher in 1959 than today?,1,0
+Are carbon absorbers more efficient than carbon sources in removing CO2 from the atmosphere?,1,0
+Is the gas primarily responsible for driving climate change on Mars carbon dioxide?,0,1
+Does melting sea ice change the Earth's rotation?,0,1
+Does melting sea ice displace its volume?,1,0
+Does melting sea ice affect the Earth's rotation?,0,1
+Is the expected amount of warming in the coming decades 250 times greater than the average warming in the past century?,1,0
+"Does the opposite happen with plants, i.e., they breathe in carbon dioxide and breathe out oxygen?",0,1
+Do over 90% of scientists agree that humans cause climate change?,0,1
+Have many species not yet reached the limit of where they can find hospitable climates?,0,1
+"Do ticks and parasites thrive in the shorter, milder winters in the U.S. and Canada?",0,1
+Climate change causes wildfires.,0,1
+Severe storms are more likely to occur during the summer.,0,1
+Do the Arctic and Antarctic have high abundance of fish?,1,0
+Are warming ocean temperatures causing polar ice to shift?,0,1
+Do warming ocean temperatures affect fish populations?,0,1
+Can crops absorb water from the soil during times of excessive rainfall?,0,1
+Can healthier soils decrease the erosion of crop yields?,0,1
+Can healthier soils increase farmers' profitability?,0,1
+Do healthier soils result in cleaner waterways for people and nature?,0,1
+Does the IPCC recommend holding global warming to an additional 2 degrees Celsius?,0,1
+Are nuclear and hydro power considered clean energy sources?,0,1
+Do forests and farmlands contribute to emissions growth rather than reductions?,0,1
+Does the IPCC recommend holding global warming to an additional 2 degrees Celsius?,0,1
+Is it possible to be part of the climate change solution by calculating your carbon footprint?,0,1
+Does lowering your carbon footprint have any effect on greenhouse gas emissions?,0,1
+Can your activities emitting the most greenhouse gases be predictable?,0,1
+Is it possible to be part of the climate change solution without calculating your carbon footprint?,0,1
+Does lowering your carbon footprint have a significant impact on greenhouse gas emissions?,0,1
+Is using your voice for climate action considered essential?,0,1
+Can we avoid the worst impacts of global warming by reducing carbon emissions by 50%?,0,1
+Can we avoid the worst impacts of global warming by reducing carbon emissions to 25% of current levels?,0,1
+Is renewable energy becoming more competitive with fossil fuels in some regions?,0,1
+Can we meet clean energy demand 17 times over without converting more natural habitat?,1,0
+Could renewable energy developments potentially enhance the wildlife habitat in the Great Plains region?,0,1
+Can renewable energy be deployed without considering the ecological impact on wetland habitat?,1,0
+Is there a hard and fast deadline on climate action vs. inaction?,1,0
+Will catastrophic climate impacts be avoided if we make significant progress towards decarbonization by 2030?,0,1
+Is it possible to protect against a definitive line of demarcation in climate change?,1,0
+Is 2030 the deadline for making progress towards decarbonization?,0,1
+Is climate change reversible if action is taken now?,0,1
+Is it possible to avoid catastrophic climate impacts?,0,1
+Would water supplies disappear around the world due to climate impacts?,1,0
+Would some regions become more inhabitable if climate impacts continue?,0,1
+Would global food shortages be eliminated if climate impacts stop?,1,0
+Would water supplies increase around the world if climate impacts stop?,1,0
+Has the increase in atmospheric CO2 concentrations been gradual since 1850?,0,1
+Are greenhouse gases the primary cause of temperature change?,0,1
+Is the rise in global temperatures a recent phenomenon?,0,1
+Is the rise in global temperatures solely due to greenhouse gases?,1,0
+Is the increase in atmospheric CO2 concentrations solely responsible for the rise in global temperatures?,1,0
+Are human greenhouse gas emissions the only explanation for the global warming of the past century?,1,0
+Is the warming trend of the past century solely due to the impact of human greenhouse gas emissions?,1,0
+Do El Nino events have a small impact on elevating global temperatures?,1,0
+Is the sun's energy variation enough to have caused variations in global temperature of around 0.1 degrees Celsius?,1,0
+Do natural factors have a significant impact on the global warming observed since 1850?,0,1
+Is the global warming observed since 1850 solely due to the impact of human activities?,1,0
+Can the warming trend of the past century be solely attributed to human activities?,1,0
+Climate sensitivity ranges from 0.5 degreesC to 5.5 degreesC.,0,1
+"Thick clouds trap heat, leading to warming of the planet.",0,1
+Increased warming will lead to decreased cloud reflection of sunlight.,1,0
+Climate sensitivity ranges from 2 degreesC to 4 degreesC.,0,1
+Cloud reflection of sunlight increases with warming.,0,1
+Climate sensitivity ranges from 1 degreeC to 5 degreesC.,0,1
+"Thick, bright clouds have a cooling effect on the Earth's surface.",0,1
+Do interglacial periods occur when CO2 levels are around 180 parts per million?,1,0
+Does cooling of polar oceans result in decreased CO2 absorption?,0,1
+Does ice melting lead to global warming?,1,0
+Were sea levels 10-15 meters higher than today when CO2 levels were at 410 parts per million 1.0-0.5 million years ago?,1,0
+Do interglacial periods occur when CO2 levels are around 180 parts per million?,1,0
+Does cooling of polar oceans result in decreased CO2 absorption?,0,1
+Does ice melting lead to global warming?,1,0
+Were sea levels 10-15 meters higher than today when CO2 levels were at 410 parts per million 1.0-0.5 million years ago?,1,0
+Higher CO2 levels are the cause of climate change.,0,1
+Photosynthesis depends on the amount of water absorbed by leaves.,0,1
+Vegetation cover has decreased due to intensive human use of land for growing crops.,0,1
+The rise in sea levels per 100 years is currently 32cm.,1,0
+The West Antarctic ice sheet contains more ice than the Greenland ice sheet.,0,1
+Global GDP is expected to decrease by 1% if temperatures rise by 2°C.,0,1
+Climate change impacts are more severe in areas heavily dependent on manufacturing.,0,1
+"Equating to only 0.5 degreesC of further warming, limiting to 1.5 degreesC would be a substantial change.",0,1
+Shifting to a circular economy is a necessary step for the goal.,0,1
+A 2°C warming could lead to a global sea level rise of 10 meters.,1,0
+A 'carbon budget' refers to the total emissions a country is allowed.,0,1
+Sea levels can rise by up to 100cm by 2100.,0,1
+A decrease in emissions significantly reduces the importance of CO2 removal to meet the Paris Agreement goals.,1,0
+The divestment movement began before 2010.,0,1
+Divestment could cause financial assets to become more valuable.,0,1
+"Divestment's impact on coal, gas, and oil companies is uncertain.",0,1
+Divestment aims to reduce financial risks.,0,1
+Institutions involved in divestment include tech companies.,0,1
+The divestment movement has had global success.,0,1
+Fossil fuel divestment movement encourages institutions to invest in renewable energy.,0,1
+China invests the most in nuclear energy compared to any other country.,1,0
+Majority of new energy capacity added globally is coal or gas.,1,0
+The world's energy leaders set a temperature increase limit in 2009.,1,0
+Wind and solar energy are not suitable for providing baseload power.,1,0
+Germany's plan to reduce emissions is not associated with phasing out nuclear power.,1,0
+The International Institute for Applied Systems Analysis predicts scenarios without nuclear energy.,0,1
+Redd can compete well with other land uses financially.,0,1
+Developed countries receive payments under Redd.,0,1
+Battery-based electric cars can achieve zero emissions.,1,0
+Hydrogen cars are preferred for long-distance travel.,1,0
+Emitters are generally held responsible for greenhouse gas emissions due to the 'global commons' concept.,0,1
+Natural cloud variations have contributed significantly to global dimming.,0,1
+The observed dimming has strong similarities across the globe.,0,1
+Pollution-induced aerosols can absorb radiation before it reaches the surface.,0,1
+European and North American regions have experienced consistent dimming.,0,1
+China and India have seen further brightening due to industrialization.,0,1
+Global dimming has led to intensified historical warming.,0,1
+Brightened areas have witnessed reduced warming effects.,0,1
+Dimming has exacerbated the effects of historical greenhouse gas warming.,0,1
+Brightening areas have experienced intensified warming.,0,1
+All climate impacts are expressed as CO2e.,1,0
+Tracing the emissions of a plastic toy leads to a finite number of pathways.,0,1
+'How Bad Are Bananas?' is a book about carbon footprints.,1,0
+'Input-output' analysis divides emissions by countries.,0,1
+'Lifecycle assessment' includes all feasible emissions pathways.,1,0
+The carbon footprint of a plastic toy includes the emissions from the toy shop.,0,1
+Uncertainties in carbon footprint calculations increase with simplicity.,0,1
+Is it believed that the market will automatically shift investments towards alternative energy sources in response to rising oil extraction costs?,1,0
+Can a reduction in oil production be directly correlated with a reduction in carbon emissions?,0,1
+Is it likely that the transition to alternative energy sources would be hindered by the occurrence of peak oil?,1,0
+Is it possible that peak oil could have negligible effects on the global economy due to the prevalence of alternative energy sources?,0,1
+Could the long-term impact of peak oil on global warming be positive due to decreased carbon emissions from oil-related activities?,0,1
+Developing countries contributed a significant share to the CO2 build-up.,0,1
+Industrialized nations committed to a fixed 5.2% reduction in emissions by 2012.,0,1
+China and India were exempt from emission reductions due to their contributions.,1,0
+The United States and China were responsible for erasing all Kyoto period reductions.,1,0
+The Kyoto protocol addressed both industrialized and developing countries.,1,0
+The UNFCCC's main goal was to stabilize CO2 concentrations.,0,1
+Was the Stern review commissioned by Gordon Brown?,1,0
+Was it announced in 2010 that Stern's report underestimated climate impacts?,0,1
+Did Stern's report analyze the economics of fossil fuel industries?,0,1
+Did Stern's report claim that climate change effects can't be undone?,1,0
+Did Stern's background include work at the IMF?,0,1
+Did Stern's report recommend increasing global GDP spending on climate action?,0,1
+Did media reports in the 1970s generally predict an imminent ice age?,1,0
+Did global temperatures peak in 1998?,1,0
+Were industrial aerosol pollutants responsible for trapping sunlight on Earth during the mid-20th century?,1,0
+Did the post-war industrial boom lead to an increase in greenhouse gas emissions?,0,1
